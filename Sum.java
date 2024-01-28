@@ -6,5 +6,6 @@ public class Sum {
     public static void main(String[] args) {
         
         System.out.println("Sum = " + SumNum(45, 86));
+        System.out.println("Sum = " + SumNum(125, 769));
     }
 }
